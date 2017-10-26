@@ -1,0 +1,10 @@
+Basic properties of sound: Frequency, Amplitude
+  Derived from above: Loudness(Power), Harmonics- {fundamental freq+ Overtones, Octaves, Notes(~Raaga-https://en.wikipedia.org/wiki/Raga)}
+
+Human Perception: Pitch,Timbre
+  Pitch - we can roughly use frequency or use Mel Cepstrum (~ IFT(log(FT(Mel))) )
+  Timbre ???
+ 
+ Extra statistics: Kurtosis, Variance etc.
+ 
+ 
